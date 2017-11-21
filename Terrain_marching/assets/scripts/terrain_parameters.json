@@ -1,0 +1,17 @@
+{
+    "map1_scale_x": 20800.0,
+    "map1_scale_y": 19900.0,
+    "map2_scale_x": 3790.0,
+    "map2_scale_y": 3110.0,
+    "map3_scale_x": 114.29978942871094,
+    "map3_scale_y": 119.99970245361328,
+    "map1_amplitude": 1000,
+    "map2_amplitude": 320,
+    "map3_amplitude": 5.4999999999999885,
+    "distance_factor": 1.0109999999999988,
+    "water_altitude": 40,
+    "water_reflexion": 0.45999999999999996,
+    "offset_x": 0.0,
+    "offset_y": -50.0,
+    "offset_z": 0.5
+}
